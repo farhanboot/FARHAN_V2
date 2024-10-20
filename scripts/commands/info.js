@@ -37,7 +37,7 @@ var callback = () => api.sendMessage({body:`
 𝐀𝐠𝐞           : 17+
 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 : 𝐒𝐢𝐧𝐠𝐥𝐞
 𝐖𝐨𝐫𝐤        : 𝐒𝐭𝐮𝐝𝐞𝐧𝐭
-𝐆𝐦𝐚𝐢𝐥       : farhanhasan18@gmail.com
+𝐆𝐦𝐚𝐢𝐥       : tore kn bolbo 😆
 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: 017*******
 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦  : Chalai na😆
 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤 : https://www.facebook.com/farhan.ahmed2401?mibextid=ZbWKwL`,attachment: fs.createReadStream(__dirname + "/cache/1.png")}, event.threadID, () => 
